@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/_V/.local/share/virtualenvs/flask-tutorial-hMiwqkeU/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
