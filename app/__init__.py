@@ -49,7 +49,9 @@ if not app.debug:
     app.logger.setLevel(logging.INFO)
     app.logger.info('Microblog startup')
 
-
+"""
 @babel.localeselector
 def get_locale():
     return request.accept_languages.best_match(app.config['LANGUAGES'])
+
+"""
